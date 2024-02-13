@@ -24,7 +24,7 @@ SELECT * FROM week3_zoomcamp.external_green;
 ```
 
 ## Question 1:
-Question 1: What is count of records for the 2022 Green Taxi Data??
+What is count of records for the 2022 Green Taxi Data??
 - 65,623,481
 - 840,402
 - 1,936,423
